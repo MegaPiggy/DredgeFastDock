@@ -1,0 +1,9 @@
+{
+  "Author": "MegaPiggy",
+  "Name": "Fast Dock",
+  "ModGUID": "megapiggy.fastdock",
+  "Entrypoint": "FastDock.Main/Initialize",
+  "Version": "1.0",
+  "ModAssembly": "FastDock.dll",
+  "MinWinchVersion": "alpha-1.4"
+}
